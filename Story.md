@@ -16,3 +16,7 @@ The boss decided to have a talk with him.
 
 Steve was now a team leader. It was harder than he thought. Steve
 decided to replicate the bug first.
+
+# Chapter 5: Prod Issue
+
+A critical prod issue has occurred. Everyone looks to Snoop for the solution.
