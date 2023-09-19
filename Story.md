@@ -27,4 +27,4 @@ Lendl found the bug, thanks to careful replication.
 
 Transo allowance pls maya
 
-DUCKS! DUCKS! DUCKS! DUCKS
+DUCKS! DUCKS! DUCKS! DUCKS! 🐥s
