@@ -1,7 +1,7 @@
 # Chapter 1: Introduction
 
 Once upon a time, in the office of a software development firm,
-there was a programmer named Steve.
+there was a programmer named Gab.
 He was happy at his job.
 
 # Chapter 2: The Project
@@ -14,7 +14,7 @@ The boss decided to have a talk with him.
 
 # Chapter 4: Leadership
 
-Steve was now a team leader. It was harder than he thought. Steve
+Gab was now a team leader. It was harder than he thought. Gab
 decided to replicate the bug first.
 
 # Chapter 5: Prod Issue
@@ -23,4 +23,4 @@ A critical prod issue has occurred. Everyone looks to Snoop for the solution.
 
 # Chapter 6: 
 
-Steve found the bug, thanks to careful replication.
+Gab found the bug, thanks to careful replication.
